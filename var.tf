@@ -1,4 +1,4 @@
-# Input variable definitions
+# Input variable declarations.
 
 variable "vpc_name" {
   type        = string
